@@ -2,7 +2,7 @@
 
 - 🔭 Currently working on deploying my [Trains](https://github.com/krudny/Trains) project into google cloud.
 - 🌱 Focusing on learning fullstack development with React and SpringBoot.
-- ⚡ Training my DSA skills on leetcode. [Check out my profile!](https://leetcode.com/u/krudny/) [150+ problems solved]
+- ⚡ Training my DSA skills on leetcode. [Check out my profile!](https://leetcode.com/u/krudny/) [200+ problems solved]
 
 ## Skills 💪
 
