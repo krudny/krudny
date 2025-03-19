@@ -6,7 +6,7 @@
 
 ## Best projects
 
-- [Plants shop](https://github.com/krudny/plantsShop)
+- [Plants shop](https://github.com/krudny/plantsShop) | [Live Demo](https://dot-plants-shop.vercel.app/)
 - [CineHub](https://github.com/krudny/CineHub)
 - [Bonds Calculator](https://github.com/krudny/bonds-calculator)
 - [Darwin World](https://github.com/krudny/Darwin-World-An-Evolution-Simulation)
