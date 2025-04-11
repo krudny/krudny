@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Currently working on refactoring and deploying my [CineHub](https://github.com/krudny/CineHub) project into google cloud.
+- 🔭 Currently collaborating with a 7-person Scrum team on building a smart income and expense tracker [Zlotowka](https://github.com/krudny/Zlotowka).
 - 🌱 Focusing on learning fullstack development with React/Next.js and SpringBoot.
 - ⚡ Training my DSA skills on leetcode. [Check out my profile!](https://leetcode.com/u/krudny/) [300+ problems solved]
 
